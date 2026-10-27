@@ -1,0 +1,11 @@
+# GitHub Discussions
+
+> **Approval:** published when this pull request is merged. Edit it here if it needs changes.
+
+Title: shipcast-action-test v0.2.0 (test)
+
+---
+
+Placeholder written by Shipcast’s fake AI provider for a test: no model read the code.
+
+https://yeyo11.github.io/shipcast-action-test-launches/en/shipcast-action-test-launch/?ref=github
