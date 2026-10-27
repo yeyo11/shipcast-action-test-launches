@@ -1,0 +1,15 @@
+# Shipcast: who the launches in this repo speak for (https://github.com/yeyo11/shipcast/blob/main/docs/brands.md).
+# Public information only: tokens are repository secrets, never here.
+id: action-test
+displayName: "Shipcast Action Test"
+site: https://yeyo11.github.io/shipcast-action-test-launches
+github: yeyo11
+languages:
+  blog: [en]
+# How the AI writes for you, in a few sentences
+tone: ""
+handles: {}
+# handles:
+#   bluesky: https://bsky.app/profile/you.bsky.social
+#   mastodon: https://mastodon.social/@you
+#   devto: https://dev.to/you
