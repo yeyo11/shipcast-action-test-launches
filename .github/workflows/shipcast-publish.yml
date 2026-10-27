@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      - uses: yeyo11/shipcast-action@main
+      - uses: yeyo11/shipcast-action@v1
         with:
           command: ${{ github.event_name == 'pull_request' && 'publish' || 'round' }}
           launches-repo: ${{ github.repository }}
