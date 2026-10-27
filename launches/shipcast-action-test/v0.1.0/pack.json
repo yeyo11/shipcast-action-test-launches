@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "launch",
+  "project": {
+    "name": "shipcast-action-test",
+    "repo": "https://github.com/yeyo11/shipcast-action-test",
+    "version": "v0.1.0"
+  },
+  "analysis": {
+    "summary": "Placeholder written by Shipcast’s fake AI provider for a test: no model read the code.",
+    "implemented": [
+      "Nothing was read: this is a placeholder"
+    ],
+    "planned": [],
+    "documentedOnly": [],
+    "limitations": [
+      "Placeholder written by Shipcast’s fake AI provider for a test: no model read the code."
+    ]
+  },
+  "article": {
+    "tags": [
+      "test"
+    ],
+    "en": {
+      "slug": "shipcast-action-test-launch",
+      "title": "shipcast-action-test v0.1.0: a test launch",
+      "description": "Placeholder written by Shipcast’s fake AI provider for a test: no model read the code.",
+      "markdown": "Placeholder written by Shipcast’s fake AI provider for a test: no model read the code.\n\n## What is shipcast-action-test?\n\nThe project at https://github.com/yeyo11/shipcast-action-test, release v0.1.0.\n",
+      "imageAlt": "shipcast-action-test, a test launch"
+    }
+  },
+  "devto": {
+    "tags": [
+      "test"
+    ]
+  },
+  "githubDiscussions": {
+    "title": "shipcast-action-test v0.1.0 (test)",
+    "body": "Placeholder written by Shipcast’s fake AI provider for a test: no model read the code.\n\nhttps://yeyo11.github.io/shipcast-action-test-launches/en/shipcast-action-test-launch/?ref=github"
+  },
+  "bluesky": {
+    "lang": "en",
+    "text": "shipcast-action-test v0.1.0 (test) https://yeyo11.github.io/shipcast-action-test-launches/en/shipcast-action-test-launch/?ref=bluesky"
+  },
+  "mastodon": {
+    "lang": "en",
+    "text": "shipcast-action-test v0.1.0: Placeholder written by Shipcast’s fake AI provider for a test: no model read the code. https://yeyo11.github.io/shipcast-action-test-launches/en/shipcast-action-test-launch/?ref=mastodon"
+  }
+}
