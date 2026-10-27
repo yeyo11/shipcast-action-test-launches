@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "migration": "0009_attention_dismissals",
+  "tables": {
+    "accounts": [],
+    "account_snapshots": [],
+    "launches": [
+      {"id":1,"repo":"yeyo11/shipcast-action-test","ref":"v0.1.0","trigger":"release","kind":"launch","brand":"action-test","status":"detected","detail":null,"created_at":"2026-10-27T17:24:58.710Z","updated_at":"2026-10-27T17:24:58.710Z"}
+    ],
+    "assistant_sessions": [],
+    "assistant_messages": [],
+    "attention_dismissals": [],
+    "posts": [],
+    "comments": [],
+    "cursors": [],
+    "metrics": [],
+    "settings": []
+  }
+}
